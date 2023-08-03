@@ -1,30 +1,31 @@
 # MounteaFramework
-## What is the Mountea Framework ?
+## What is the Mountea Framework?
 Mountea Framework is a set of tools used to make game development easier for everyone. 
-This toolset is developed mainly by Dominik Morse and aims at developing a single player adventure game and single player RPG game.
+This toolset is developed mainly by Dominik Morse and aims at developing a single-player adventure game and single-player RPG game.
 
 ## What tools are expected to be available? 
-Mountea Interaction Plugin
-Mountea Dialogue Plugin
-Mountea Inventory & Equipment System
-Mountea Game Manager System
+* Mountea Interaction Plugin
+* Mountea Dialogue Plugin
+* Mountea Inventory & Equipment System
+* Mountea Game Manager System
 
 ## What tools are already available? 
-Mountea Interaction Plugin
-Mountea Dialogue Plugin
+* [Mountea Interaction Plugin](https://github.com/Mountea-Framework/MounteaInteractionSystem)
+* [Mountea Dialogue System](https://github.com/Mountea-Framework/MounteaDialogueSystem)
 
 ## What tools are we working on right now? 
-Mountea Inventory & Equipment System
-Mountea Game Manager System
+* [Mountea Inventory & Equipment System](https://github.com/Mountea-Framework/MounteaInventoryEquipment)
+* [Mountea Game Manager](https://github.com/Mountea-Framework/MounteaQuestSystem)
+* [Mountea Tools Library](https://github.com/Mountea-Framework/MounteaToolsLibrary)
 
-## Is or will be multiplayer supported?
-Multiplayer will be supported per tool if requested. Main goal is to release all plugins to be working in single player and with updates make them work in replicated scenarios.
-Multiplayer support will be handled by professional.
+## Is or will multiplayer be supported?
+Multiplayer will be supported in Stage 3 for each plugin. The main goal is to release all plugins to be working in single-player and with updates make them work in replicated scenarios.
+Multiplayer support will be handled by a professional.
 
 ## How much does it cost?
-Mountea Framework is and will remain free. The goal is to encourage game creators to make amazing products and to enrich the Unreal Community.
-We only ask you to share and rate the tools so wider range of creators can get involved.
-If you want to support our movement, you can do it on following links:
+Mountea Framework is and will remain free. The goal is to encourage game creators to make unique products and to enrich the Unreal Community.
+We only ask you to share and rate the tools so a wider range of creators can get involved.
+If you want to support our movement, you can do it by following the links:
 * [Github Support](https://github.com/sponsors/Mountea-Framework)
 * [Patreon](https://www.patreon.com/mountea)
 
@@ -36,7 +37,7 @@ If you want to support our movement, you can do it on following links:
 ## Discord Channel
 <a href="https://discord.gg/2vXWEEN"><img src="https://static.wikia.nocookie.net/siivagunner/images/9/9f/Discord_icon.svg/revision/latest?cb=20210814160101" alt="Discord LINK" width="100" height="100"></a>
 
-Join support and community Discord!
+Join the support and community Discord!
 
 ## Tutorial videos
 <a href="https://www.youtube.com/playlist?list=PLIU53wA8zZmg5eBKEcpZr7G8JBBZ4QPKq"><img src="https://img.talkandroid.com/uploads/2016/06/youtube-logo-450x450.png" alt="TUTORIAL playlist" width="100" height="100"></a>
@@ -62,13 +63,13 @@ UE 5.2 | [1.0.0.52](https://github.com/Mountea-Framework/MounteaDialogueSystem/r
 
 ## Installation
 
-Download the plugin (either from Releases or from Marketplace). For more detailed guide take a look at Wiki page.
+Download the plugin (either from Releases or from Marketplace). For a more detailed guide take a look at the Wiki page for each plugin.
 
 1. Download the branch release you are interested in
 2. Instal the plugin to your Game Project (within /Plugin folder)
 
 ## Branches
 
-* Master: A master branch, should be always relevant to most current Engine version and stable.
+* Master: A master branch, should always be relevant to the most current Engine version and stable.
 * Version Branch: A stable branch for specified Engine version.
-* Version Brach_Dev: A development branch for specified Engine version.
+* Version Brach_Dev: A development branch for a specified Engine version.
