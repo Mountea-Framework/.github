@@ -61,15 +61,11 @@ UE 5.00 | [1.0.0.50](https://github.com/Mountea-Framework/MounteaDialogueSystem/
 UE 5.1 | [1.0.0.51](https://github.com/Mountea-Framework/MounteaDialogueSystem/releases/tag/1.0.0.51) | 🟩
 UE 5.2 | [1.0.0.52](https://github.com/Mountea-Framework/MounteaDialogueSystem/releases/tag/1.0.0.52) | 🟩
 
-## Installation
+## Development
+Mountea Framework is free and will remain free. Development is funded by passion and volunteers, who might, but never will be forced to support this project.</p>
+Mountea Framework is developed using <a href="https://www.jetbrains.com/rider/">Rider IDE</a> by <a href="https://www.jetbrains.com/">JetBrains</a>.
+<p align="center" width="100%">
+    <a href="https://www.jetbrains.com/rider/"><img width="32.5%" src="https://resources.jetbrains.com/storage/products/company/brand/logos/Rider.png" alt="Copyright © 2000-2023 JetBrains s.r.o. Rider IDE and the Rider IDE logo are registered trademarks of JetBrains s.r.o." width="50%" height="50%"></a>
+    <a href="https://www.jetbrains.com/"><img width="32.5%" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="Copyright © 2000-2023 JetBrains s.r.o. JetBrains and the JetBrains logo are registered trademarks of JetBrains s.r.o." width="50%" height="50%"></a>
+</p>
 
-Download the plugin (either from Releases or from Marketplace). For a more detailed guide take a look at the Wiki page for each plugin.
-
-1. Download the branch release you are interested in
-2. Instal the plugin to your Game Project (within /Plugin folder)
-
-## Branches
-
-* Master: A master branch, should always be relevant to the most current Engine version and stable.
-* Version Branch: A stable branch for specified Engine version.
-* Version Brach_Dev: A development branch for a specified Engine version.
