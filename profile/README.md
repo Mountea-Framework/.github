@@ -14,6 +14,7 @@ This toolset is developed mainly by Dominik Morse and aims at developing a singl
 * [Mountea Dialogue System](https://github.com/Mountea-Framework/MounteaDialogueSystem)
 
 ## What tools are we working on right now? 
+* [Mountea Dialoguer](https://github.com/Mountea-Framework/MounteaDialoguer)
 * [Mountea Inventory & Equipment System](https://github.com/Mountea-Framework/MounteaInventoryEquipment)
 * [Mountea Game Manager](https://github.com/Mountea-Framework/MounteaQuestSystem)
 * [Mountea Tools Library](https://github.com/Mountea-Framework/MounteaToolsLibrary)
