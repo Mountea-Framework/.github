@@ -1,3 +1,8 @@
+[![Marketplace](https://img.shields.io/badge/marketplace-epicgames?style=flat&logo=UnrealEngine&labelColor=5a5a5a&color=98c510)](https://www.unrealengine.com/marketplace/en-US/profile/Dominik+Morse)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](https://www.youtube.com/@mounteaframework)
+[![Discord](https://badgen.net/discord/online-members/2vXWEEN?label=Discord&logo=discord&logoColor=ffffff&color=7389D8)](https://discord.com/invite/2vXWEEN)
+[![Discord](https://badgen.net/discord/members/2vXWEEN?label=Discord&logo=discord&logoColor=ffffff&color=7389D8)](https://discord.com/invite/2vXWEEN)
+
 # MounteaFramework
 ## What is the Mountea Framework?
 Mountea Framework is a set of tools used to make game development easier for everyone. 
