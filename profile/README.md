@@ -12,17 +12,20 @@ This toolset is developed mainly by Dominik Morse and aims at developing a singl
 * Mountea Interaction Plugin
 * Mountea Dialogue Plugin
 * Mountea Inventory & Equipment System
-* Mountea Game Manager System
+* Mountea Game Director System
+* Mountea Dialogue Creator
+* Mountea Project Launcher
+* Mountea Plugin Builder
 
 ## What tools are already available? 
 * [Mountea Interaction Plugin](https://github.com/Mountea-Framework/MounteaInteractionSystem)
 * [Mountea Dialogue System](https://github.com/Mountea-Framework/MounteaDialogueSystem)
 * [Mountea Project Launcher](https://github.com/Mountea-Framework/MounteaProjectLauncher)
+* [Mountea Dialoguer](https://github.com/Mountea-Framework/MounteaDialoguer)
 
 ## What tools are we working on right now? 
-* [Mountea Dialoguer](https://github.com/Mountea-Framework/MounteaDialoguer)
 * [Mountea Inventory & Equipment System](https://github.com/Mountea-Framework/MounteaInventoryEquipment)
-* [Mountea Game Manager](https://github.com/Mountea-Framework/MounteaQuestSystem)
+* [Mountea Game Director](https://github.com/Mountea-Framework/MounteaQuestSystem)
 * [Mountea Tools Library](https://github.com/Mountea-Framework/MounteaToolsLibrary)
 
 ## Is or will multiplayer be supported?
@@ -37,12 +40,9 @@ If you want to support our movement, you can do it by following the links:
 * [Patreon](https://www.patreon.com/mountea)
 
 ## Discord Channel
-<a href="https://discord.gg/2vXWEEN"><img src="https://static.wikia.nocookie.net/siivagunner/images/9/9f/Discord_icon.svg/revision/latest?cb=20210814160101" alt="Discord LINK" width="100" height="100"></a>
+<a href="https://discord.gg/2vXWEEN"><img src="https://anbhelp.zendesk.com/hc/article_attachments/360021176052/discord.gif" alt="Discord LINK" width="100"></a>
 
 Join the support and community Discord!
-
-## Tutorial videos
-<a href="https://www.youtube.com/playlist?list=PLIU53wA8zZmg5eBKEcpZr7G8JBBZ4QPKq"><img src="https://img.talkandroid.com/uploads/2016/06/youtube-logo-450x450.png" alt="TUTORIAL playlist" width="100" height="100"></a>
 
 ## Compatible Engine Version
 
