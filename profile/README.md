@@ -9,6 +9,7 @@ Mountea Framework is a set of tools used to make game development easier for eve
 This toolset is developed mainly by Dominik Morse and aims at developing a single-player adventure game and single-player RPG game.
 
 ## What tools are expected to be available? 
+
 * Mountea Interaction Plugin
 * Mountea Dialogue Plugin
 * Mountea Inventory & Equipment System
@@ -45,6 +46,19 @@ If you want to support our movement, you can do it by following the links:
 Join the support and community Discord!
 
 ## Compatible Engine Version
+
+### Version logic
+Here are brief explanations for each version component:
+
+Version | Description 
+-------------- | -------------- 
+**Major Version** | Indicates a significant release with major changes, often introducing new features or breaking compatibility with previous versions.
+**Minor Version** | Represents an update with new features or improvements that are compatible with the major version, without breaking changes.
+**Hotfix Version** | Identifies a release focused on quick fixes for critical issues or bugs without adding new features or making significant changes.
+**Engine Version** | Specifies the Unreal Engine version used in the project, ensuring compatibility and defining the available engine features and tools.
+<p align="center" width="100%">
+   <img width="50%" src="https://github.com/user-attachments/assets/ca09a695-65c6-4284-bb74-b1ee7e3d0085">
+</p>
 
 ### Legend
 Colour | Explanation
