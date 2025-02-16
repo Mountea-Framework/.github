@@ -10,13 +10,14 @@ This toolset is developed mainly by Dominik Morse and aims at developing a singl
 
 ## What tools are expected to be available? 
 
-* Mountea Interaction Plugin
-* Mountea Dialogue Plugin
-* Mountea Inventory & Equipment System
-* Mountea Game Director System
-* Mountea Dialogue Creator
-* Mountea Project Launcher
-* Mountea Plugin Builder
+* Mountea Interaction Plugin ✅
+* Mountea Dialogue Plugin ✅
+* Mountea Inventory & Equipment System ⚒️
+* Mountea Game Director System 📝
+* Mountea Dialoguer ✅
+* Mountea Project Launcher ✅
+* Mountea Plugin Builder ⚒️
+* Mountea Tools Library ⚒️
 
 ## What tools are already available? 
 * [Mountea Interaction Plugin](https://github.com/Mountea-Framework/MounteaInteractionSystem)
