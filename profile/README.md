@@ -19,6 +19,7 @@ This toolset is developed mainly by Dominik Morse and aims at developing a singl
 * Mountea Plugin Builder ⚒️
 * Mountea Tools Library ⚒️
 * Mountea Benchmark System 📝
+* Mountea Documentation System ⚒️
 
 ## What tools are already available? 
 * [Mountea Interaction Plugin](https://github.com/Mountea-Framework/MounteaInteractionSystem)
@@ -31,9 +32,8 @@ This toolset is developed mainly by Dominik Morse and aims at developing a singl
 * [Mountea Game Director](https://github.com/Mountea-Framework/MounteaQuestSystem)
 * [Mountea Tools Library](https://github.com/Mountea-Framework/MounteaToolsLibrary)
 
-## Is or will multiplayer be supported?
-Multiplayer will be supported in Stage 3 for each plugin. The main goal is to release all plugins to be working in single-player and with updates make them work in replicated scenarios.
-Multiplayer support will be handled by a professional.
+## Will multiplayer be supported?
+Each plugin will be supported in Stage 3 in multiplayer. The main goal is to release all plugins to work in single-player and, with updates, make them work in replicated scenarios.
 
 ## How much does it cost?
 Mountea Framework is and will remain free. The goal is to encourage game creators to make unique products and to enrich the Unreal Community.
