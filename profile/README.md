@@ -29,6 +29,7 @@ This toolset is developed mainly by Dominik Morse and aims at developing a singl
 
 ## What tools are we working on right now? 
 * [Mountea Inventory & Equipment System](https://github.com/Mountea-Framework/MounteaInventoryEquipment)
+* [Mountea Inventory Manager](https://github.com/Mountea-Framework/InventoryManager)
 * [Mountea Game Director](https://github.com/Mountea-Framework/MounteaQuestSystem)
 * [Mountea Tools Library](https://github.com/Mountea-Framework/MounteaToolsLibrary)
 
