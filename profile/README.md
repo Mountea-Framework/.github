@@ -89,3 +89,8 @@
 >     <a href="https://www.jetbrains.com/"><img width="32.5%" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="Copyright © 2000-2023 JetBrains s.r.o. JetBrains and the JetBrains logo are registered trademarks of JetBrains > > > s.r.o." width="50%" height="50%"></a>
 > </p>
 
+## Star History
+
+> Take a look at how people like our work!
+> 
+>  [![Star History Chart](https://api.star-history.com/svg?repos=Mountea-Framework/MounteaUnrealBuilder,Mountea-Framework/MounteaInteractionSystem,Mountea-Framework/MounteaDialogueSystem,Mountea-Framework/MounteaProjectLauncher,Mountea-Framework/MounteaDialoguer,Mountea-Framework/MounteaInventoryEquipment&type=date&legend=top-left)](https://www.star-history.com/#Mountea-Framework/MounteaUnrealBuilder&Mountea-Framework/MounteaInteractionSystem&Mountea-Framework/MounteaDialogueSystem&Mountea-Framework/MounteaProjectLauncher&Mountea-Framework/MounteaDialoguer&Mountea-Framework/MounteaInventoryEquipment&type=date&legend=top-left)
