@@ -6,7 +6,7 @@
 # MounteaFramework
 ## What is the Mountea Framework?
 > Mountea Framework is a set of tools used to make game development easier for everyone. 
-> This toolset is developed mainly by Dominik Morse and aims at developing a single-player adventure game and single-player RPG game.
+> This toolset is developed mainly by Dominik Morse and Milena Veleva and aims at developing a single-player adventure game and single-player RPG game.
 
 ## What tools are expected to be available? 
 
